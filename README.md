@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **React.js** to showcase my engineering skills, featured projects in **AI, Web, and Mobile development**, and my passion for continuous learning and reading.
 
-🔗 **🔗 **Live Demo:** [https://github.io](https://github.io)**
+🔗 **Live Demo:** https://github.io
 
 ---
 
@@ -33,7 +33,7 @@ To run this project locally on your machine:
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd my-portfolio
+   cd myapplicationproject
    ```
 3. **Install dependencies:**
    ```bash
@@ -48,5 +48,5 @@ To run this project locally on your machine:
 
 ## 📬 Connect With Me
 
-- **GitHub:** [@wasiqullahdev-do](https://github.com)
-- **Email:** wasiqullah.dev@gmail.com **
+- **GitHub:** https://github.com
+- **Email:** wasiqullah.dev@gmail.com
