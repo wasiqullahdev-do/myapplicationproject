@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **React.js** to showcase my engineering skills, featured projects in **AI, Web, and Mobile development**, and my passion for continuous learning and reading.
 
-🔗 **Live Demo:** https://vercel.app
+🔗 **Live Demo:** https://wasiqullah-dev.vercel.app/
 
 
 ---
